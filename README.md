@@ -1,16 +1,6 @@
 # bottom_sheet
 
-A new Flutter application.
+# Bottom Sheet Flutter
 
-## Getting Started
+![Group 1](https://user-images.githubusercontent.com/38308526/88449989-fe80dc80-ce68-11ea-86a9-611ff2f37e2c.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
